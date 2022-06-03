@@ -1,2 +1,2 @@
-# Portfolio-DS-ML
-Set of Jupyter Notebooks with DS and ML projects using real datasets. Python+popular DS/ML libraries.
+# ToMATo algorithm (TDA) Notebook
+Jupyter Notebook: documentation of the implementation of the ToMATo algorithm (Topological Data Analysis-based clustering algorithm), using real datasets.
